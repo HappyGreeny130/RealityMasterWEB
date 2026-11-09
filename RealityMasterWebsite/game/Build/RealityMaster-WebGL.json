@@ -1,0 +1,12 @@
+{
+"companyName": "HappyGreenyStudios",
+"productName": "RealityMaster",
+"dataUrl": "RealityMaster-WebGL.data.unityweb",
+"asmCodeUrl": "RealityMaster-WebGL.asm.code.unityweb",
+"asmMemoryUrl": "RealityMaster-WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "RealityMaster-WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"backgroundUrl": "RealityMaster-WebGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
